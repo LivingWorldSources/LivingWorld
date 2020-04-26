@@ -1,0 +1,193 @@
+                                                                                    Tabelle1
+Grantee                                                    Year Issue                                                       Program            Amount
+Johns Hopkins University Bloomberg School of Public Health 2020 Family Planning                                             Global Development $10.000
+Johns Hopkins University Bloomberg School of Public Health 2020 Family Planning                                             Global Development $99.993
+Johns Hopkins University                                   2019 Delivery of Solutions to Improve Global Health              Global Development $687.904
+Johns Hopkins University                                   2019 MNCH Discovery & Tools                                      Global Health      $500.237
+Johns Hopkins University Bloomberg School of Public Health 2019 Discovery and Translational Sciences                        Global Health      $3.432.546
+Johns Hopkins University Bloomberg School of Public Health 2019 Delivery of Solutions to Improve Global Health              Global Development $2.876.472
+Johns Hopkins University Bloomberg School of Public Health 2019 Enteric and Diarrheal Diseases                              Global Health      $899.312
+Johns Hopkins University Bloomberg School of Public Health 2019 Malaria                                                     Global Health      $1.451.075
+Johns Hopkins University Bloomberg School of Public Health 2019 Discovery and Translational Sciences                        Global Health      $100.000
+Johns Hopkins University Bloomberg School of Public Health 2019 Enteric and Diarrheal Diseases                              Global Health      $750.611
+Johns Hopkins University Bloomberg School of Public Health 2019 Delivery of Solutions to Improve Global Health              Global Development $190.470
+Johns Hopkins University Bloomberg School of Public Health 2019 Enteric and Diarrheal Diseases                              Global Health      $1.892.000
+Johns Hopkins University                                   2019 Family Planning                                             Global Development $80.000
+Johns Hopkins University                                   2019 Global Health and Development Public Awareness and Analysis Global Development $1.252.981
+Johns Hopkins University                                   2019 Discovery and Translational Sciences                        Global Health      $146.011
+Johns Hopkins University                                   2019 Delivery of Solutions to Improve Global Health              Global Development $85.230
+Johns Hopkins University Bloomberg School of Public Health 2019 MNCH Discovery & Tools                                      Global Health      $200.000
+Johns Hopkins University                                   2019 Discovery and Translational Sciences                        Global Health      $100.000
+Johns Hopkins University                                   2018 Family Planning                                             Global Development $11.210.342
+Johns Hopkins University                                   2018 MNCH Discovery & Tools                                      Global Health      $649.858
+Johns Hopkins University                                   2018 Family Planning                                             Global Development $10.965.667
+Johns Hopkins University                                   2018 U.S. Economic Mobility & Opportunity                        US Program         $680.997
+Johns Hopkins University                                   2018 K-12 Education                                              US Program         $550.000
+Johns Hopkins University                                   2018 K-12 Education                                              US Program         $199.994
+Johns Hopkins University                                   2018 Vaccine Development                                         Global Health      $149.121
+Johns Hopkins University Bloomberg School of Public Health 2018 MNCH Discovery & Tools                                      Global Health      $14.998
+Johns Hopkins University Bloomberg School of Public Health 2018 Vaccine Development                                         Global Health      $200.000
+Johns Hopkins University                                   2018 Delivery of Solutions to Improve Global Health              Global Development $150.000
+Johns Hopkins University                                   2018 Vaccine Development                                         Global Health      $666.969
+Johns Hopkins University                                   2018 MNCH Discovery & Tools                                      Global Health      $1.214.475
+Johns Hopkins University                                   2018 Enteric and Diarrheal Diseases                              Global Health      $383.531
+Johns Hopkins University                                   2018 Discovery and Translational Sciences                        Global Health      $100.000
+Johns Hopkins University                                   2018 Pneumonia                                                   Global Health      $1.436.735
+Johns Hopkins University Bloomberg School of Public Health 2017 Delivery of Solutions to Improve Global Health              Global Development $1.441.882
+Johns Hopkins University                                   2017 Polio                                                       Global Development $3.735.077
+Johns Hopkins University Bloomberg School of Public Health 2017 Delivery of Solutions to Improve Global Health              Global Development $25.000
+Johns Hopkins University                                   2017 Discovery and Translational Sciences                        Global Health      $100.000
+Johns Hopkins University                                   2017 Family Planning                                             Global Development $5.200.000
+Johns Hopkins University                                   2017 Discovery and Translational Sciences                        Global Health      $100.000
+Johns Hopkins University                                   2017 Emergency Response                                          Global Development $10.250.000
+Johns Hopkins University                                   2017 Family Planning                                             Global Development $2.273.598
+Johns Hopkins University                                   2017 Nutrition                                                   Global Development $7.000.000
+Johns Hopkins University                                   2017 Delivery of Solutions to Improve Global Health              Global Development $8.071.130
+Johns Hopkins University                                   2017 MNCH Discovery & Tools                                      Global Development $1.057.183
+Johns Hopkins University                                   2017 Pneumonia                                                   Global Health      $333.428
+Johns Hopkins University                                   2017 Enteric and Diarrheal Diseases                              Global Health      $7.044.469
+Johns Hopkins University Bloomberg School of Public Health 2017 Pneumonia                                                   Global Health      $713.689
+Johns Hopkins University Bloomberg School of Public Health 2017 Enteric and Diarrheal Diseases                              Global Health      $894.949
+Johns Hopkins University                                   2017 HIV                                                         Global Health      $42.951
+Johns Hopkins University                                   2016 Research and Learning Opportunities                         Global Health      $13.219.492
+Johns Hopkins University                                   2016 K-12 Education                                              US Program         $1.994.006
+Johns Hopkins University                                   2016 Family Planning                                             Global Development $3.084.208
+Johns Hopkins University                                   2016 Family Planning                                             Global Development $4.993.285
+Johns Hopkins University                                   2016 Enteric and Diarrheal Diseases                              Global Health      $1.053.489
+Johns Hopkins University Bloomberg School of Public Health 2016 Enteric and Diarrheal Diseases                              Global Health      $18.510
+Johns Hopkins University                                   2016 Nutrition                                                   Global Development $1.719.661
+Johns Hopkins University                                   2016 Discovery and Translational Sciences                        Global Development $4.999.952
+Johns Hopkins University Bloomberg School of Public Health 2016 Enteric and Diarrheal Diseases                              Global Health      $50.000
+Johns Hopkins University                                   2016 HIV                                                         Global Health      $148.658
+Johns Hopkins University                                   2016 Enteric and Diarrheal Diseases                              Global Health      $4.576.711
+Johns Hopkins University Bloomberg School of Public Health 2016 Family Planning                                             Global Development $58.449.194
+Johns Hopkins University                                   2016 Delivery of Solutions to Improve Global Health              Global Development $1.572.223
+Johns Hopkins University                                   2016 Delivery of Solutions to Improve Global Health              Global Development $5.992.658
+Johns Hopkins University                                   2015 Delivery of Solutions to Improve Global Health              Global Development $49.699
+Johns Hopkins University Bloomberg School of Public Health 2015 Delivery of Solutions to Improve Global Health              Global Development $1.241.130
+Johns Hopkins University                                   2015 Delivery of Solutions to Improve Global Health              Global Development $559.753
+Johns Hopkins University                                   2015 Maternal, Neonatal and Child Health                         Global Development $502.931
+Johns Hopkins University Bloomberg School of Public Health 2015 Delivery of Solutions to Improve Global Health              Global Development $8.447.741
+Johns Hopkins University                                   2015 Delivery of Solutions to Improve Global Health              Global Development $704.130
+Johns Hopkins University                                   2015 Malaria                                                     Global Health      $839.483
+Johns Hopkins University                                   2015 Family Planning                                             Global Development $18.128.276
+Johns Hopkins University Bloomberg School of Public Health 2015 Delivery of Solutions to Improve Global Health              Global Development $1.153.568
+Johns Hopkins University Bloomberg School of Public Health 2015 Enteric and Diarrheal Diseases                              Global Health      $737.334
+Johns Hopkins University                                   2015 K-12 Education                                              US Program         $275.000
+Johns Hopkins University                                   2015 Delivery of Solutions to Improve Global Health              Global Development $4.959.415
+Johns Hopkins University Bloomberg School of Public Health 2015 Enteric and Diarrheal Diseases                              Global Health      $2.447.946
+Johns Hopkins University                                   2015 Maternal, Neonatal and Child Health                         Global Development $188.305
+Johns Hopkins University                                   2015 Delivery of Solutions to Improve Global Health              Global Development $65.632
+Johns Hopkins University Bloomberg School of Public Health 2015 Enteric and Diarrheal Diseases                              Global Health      $662.094
+Johns Hopkins University                                   2015 Enteric and Diarrheal Diseases                              Global Health      $397.417
+Johns Hopkins University Bloomberg School of Public Health 2015 Delivery of Solutions to Improve Global Health              Global Development $638.504
+Johns Hopkins University School of Medicine                2015 Pneumonia                                                   Global Health      $488.933
+Johns Hopkins University                                   2015 Malaria                                                     Global Health      $525.000
+Johns Hopkins University                                   2014 HIV                                                         Global Health      $2.942.355
+Johns Hopkins University                                   2014 Discovery and Translational Sciences                        Global Health      $251.961
+Johns Hopkins University Bloomberg School of Public Health 2014 Delivery of Solutions to Improve Global Health              Global Development $680.741
+Johns Hopkins University                                   2014 Development of Solutions to Improve Global Health           Global Health      $4.397.871
+Johns Hopkins University                                   2014 Delivery of Solutions to Improve Global Health              Global Development $1.217.805
+Johns Hopkins University                                   2014 HIV                                                         Global Health      $674.419
+Johns Hopkins University Bloomberg School of Public Health 2014 Delivery of Solutions to Improve Global Health              Global Development $432.348
+Johns Hopkins University                                   2014 Pneumonia                                                   Global Health      $2.381.694
+Johns Hopkins University Bloomberg School of Public Health 2014 Pneumonia                                                   Global Health      $2.043.788
+Johns Hopkins University                                   2014 K-12 Education                                              US Program         $10.000
+Johns Hopkins University                                   2014 Discovery and Translational Sciences                        Global Development $835.135
+Johns Hopkins University Bloomberg School of Public Health 2014 Delivery of Solutions to Improve Global Health              Global Development $161.251
+Johns Hopkins University                                   2014 Enteric and Diarrheal Diseases                              Global Health      $169.739
+Johns Hopkins University Bloomberg School of Public Health 2014 Enteric and Diarrheal Diseases                              Global Health      $99.202
+Johns Hopkins University Bloomberg School of Public Health 2014 Vaccine Delivery                                            Global Development $1.732.468
+Johns Hopkins University                                   2014 Delivery of Solutions to Improve Global Health              Global Development $9.786.362
+Johns Hopkins University School of Medicine                2014 HIV                                                         Global Health      $925.281
+Johns Hopkins University                                   2014 Discovery and Translational Sciences                        Global Health      $100.000
+Johns Hopkins University                                   2013 K-12 Education                                              US Program         $487.071
+                                                                                     Seite 1
+                                                                                                Tabelle1
+Johns Hopkins University                                   2013             Maternal, Neonatal and Child Health                         Global Development          $4.916.720
+Johns Hopkins University                                   2013             Maternal, Neonatal and Child Health                         Global Development          $4.999.680
+Johns Hopkins University                                   2013             Pneumonia                                                   Global Health               $6.376.130
+Johns Hopkins University Bloomberg School of Public Health 2013             Maternal, Neonatal and Child Health                         Global Development          $3.000.000
+Johns Hopkins University                                   2013             Maternal, Neonatal and Child Health                         Global Development          $2.991.748
+Johns Hopkins University                                   2013             Pneumonia                                                   Global Health               $295.681
+Johns Hopkins University Bloomberg School of Public Health 2013             Enteric and Diarrheal Diseases                              Global Health               $471.557
+Johns Hopkins University                                   2013             HIV                                                         Global Health               $239.235
+Johns Hopkins University                                   2013             Family Planning                                             Global Development          $40.099.124
+Johns Hopkins University Bloomberg School of Public Health 2013             Enteric and Diarrheal Diseases                              Global Health               $1.286.210
+Johns Hopkins University                                   2013             Delivery of Solutions to Improve Global Health              Global Development          $86.710
+Johns Hopkins University                                   2012             Enteric and Diarrheal Diseases                              Global Health               $4.995.354
+Johns Hopkins University                                   2012             Pneumonia                                                   Global Health               $906.539
+Johns Hopkins University                                   2012             Delivery of Solutions to Improve Global Health              Global Development          $2.063.159
+Johns Hopkins University                                   2012             Family Planning                                             Global Development          $78.267.344
+Johns Hopkins University                                   2012             Enteric and Diarrheal Diseases                              Global Health               $2.797.562
+Johns Hopkins University                                   2012             Enteric and Diarrheal Diseases                              Global Health               $91.494
+Johns Hopkins University School of Medicine                2012             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2012             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2012             Discovery and Translational Sciences                        Global Health               $99.430
+Johns Hopkins University                                   2012             Malaria                                                     Global Health               $109.724
+Johns Hopkins University                                   2012             Nutrition                                                   Global Development          $1.535.869
+Johns Hopkins University                                   2012             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2011             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2011             Tuberculosis                                                Global Health               $1.647.836
+Johns Hopkins University                                   2011             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2011             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2011             HIV                                                         Global Health               $83.962
+Johns Hopkins University                                   2010             Global Health and Development Public Awareness and Analysis Global Policy & Advocacy    $300.000
+Johns Hopkins University                                   2010             Delivery of Solutions to Improve Global Health              Global Development          $5.856.220
+Johns Hopkins University                                   2010             Enteric and Diarrheal Diseases                              Global Development          $16.923.744
+Johns Hopkins University                                   2010             Pneumonia                                                   Global Health               $665.685
+Johns Hopkins University                                   2010             Pneumonia                                                   Global Health               $571.181
+Johns Hopkins University                                   2010             Inform and Engage Communities                               Special Projects            $367.941
+Johns Hopkins University                                   2010             Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2009 and earlier HIV                                                         Global Health               $2.699.943
+Johns Hopkins University                                   2009 and earlier Development of Solutions to Improve Global Health           Global Health               $2.012.599
+Johns Hopkins University                                   2009 and earlier Maternal, Neonatal and Child Health                         Global Development          $6.454.415
+Johns Hopkins University                                   2009 and earlier Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2009 and earlier Family Planning                                             Global Development          $8.791.671
+Johns Hopkins University                                   2009 and earlier Pneumonia                                                   Global Health               $6.842.977
+Johns Hopkins University                                   2009 and earlier Enteric and Diarrheal Diseases                              Global Development          $3.773.154
+Johns Hopkins University                                   2009 and earlier Family Planning                                             Global Development          $46.871.724
+Johns Hopkins University                                   2009 and earlier Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2009 and earlier Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2009 and earlier Discovery and Translational Sciences                        Global Health               $100.000
+Johns Hopkins University                                   2009 and earlier Agricultural Development                                    Global Growth & Opportunity $152.243
+Johns Hopkins University                                   2009 and earlier Pneumonia                                                   Global Health               $40.940.324
+Johns Hopkins University                                   2009 and earlier HIV                                                         Global Health               $17.160.812
+Johns Hopkins University                                   2009 and earlier Delivery of Solutions to Improve Global Health              Global Development          $643.496
+Johns Hopkins University                                   2009 and earlier Delivery of Solutions to Improve Global Health              Global Development          $2.318.263
+Johns Hopkins University                                   2009 and earlier Research and Learning Opportunities                         Global Health               $4.977.359
+Johns Hopkins University                                   2009 and earlier Global Health and Development Public Awareness and Analysis Global Policy & Advocacy    $300.000
+Johns Hopkins University                                   2009 and earlier Tuberculosis                                                Global Health               $25.000
+Johns Hopkins University                                   2009 and earlier Tuberculosis                                                Global Health               $943.615
+Johns Hopkins University                                   2009 and earlier Education                                                   US Program                  $1.995.651
+Johns Hopkins University                                   2009 and earlier Tuberculosis                                                Global Health               $1.798.256
+Johns Hopkins University                                   2009 and earlier Neglected Tropical Diseases                                 Global Health               $12.613.120
+Johns Hopkins University                                   2009 and earlier Inform and Engage Communities                               Special Projects            $1.866.408
+Johns Hopkins University                                   2009 and earlier HIV                                                         Global Health               $4.021.704
+Johns Hopkins University                                   2009 and earlier Education                                                   US Program                  $1.896.129
+Johns Hopkins University                                   2009 and earlier Pneumonia                                                   Global Health               $49.720
+Johns Hopkins University                                   2009 and earlier Global Health and Development Public Awareness and Analysis Global Policy & Advocacy    $1.600.000
+Johns Hopkins University                                   2009 and earlier Malaria                                                     Global Health               $8.721.731
+Johns Hopkins University                                   2009 and earlier HIV                                                         Global Health               $643.750
+Johns Hopkins University                                   2009 and earlier Pneumonia                                                   Global Health               $294.422
+Johns Hopkins University                                   2009 and earlier Education                                                   US Program                  $464.000
+Johns Hopkins University                                   2009 and earlier Maternal, Neonatal and Child Health                         Global Development          $993.587
+Johns Hopkins University                                   2009 and earlier Global Health and Development Public Awareness and Analysis Global Policy & Advocacy    $375.000
+Johns Hopkins University                                   2009 and earlier Education                                                   US Program                  $3.051.524
+Johns Hopkins University                                   2009 and earlier Delivery of Solutions to Improve Global Health              Global Development          $914.924
+Johns Hopkins University                                   2009 and earlier Family Planning                                             Global Development          $40.000.000
+Johns Hopkins University                                   2009 and earlier Malaria                                                     Global Health               $53.725
+Johns Hopkins University                                   2009 and earlier Education                                                   US Program                  $883.200
+Johns Hopkins University                                   2009 and earlier HIV                                                         Global Health               $300.000
+Johns Hopkins University                                   2009 and earlier Tuberculosis                                                Global Health               $81.091.647
+Johns Hopkins University                                   2009 and earlier Pneumonia                                                   Global Health               $349.159
+Johns Hopkins University                                   2009 and earlier Tuberculosis                                                Global Health               $3.000.000
+Johns Hopkins University                                   2009 and earlier Delivery of Solutions to Improve Global Health              Global Development          $5.935.000
+Johns Hopkins University                                   2009 and earlier Pneumonia                                                   Global Health               $12.840.000
+Johns Hopkins University                                   2009 and earlier Discovery and Translational Sciences                        Global Development          $30.976.338
+Johns Hopkins University                                   2009 and earlier Delivery of Solutions to Improve Global Health              Global Development          $3.982.000
+Johns Hopkins University                                   2009 and earlier Family Planning                                             Global Development          $20.000.000
+Johns Hopkins University                                   2009 and earlier Research and Learning Opportunities                         US Program                  $40.000
+Johns Hopkins University                                   2009 and earlier Family Planning                                             Global Development          $2.257.200
+                                                                                                                                                                    $836.886.343
+                                                                                                 Seite 2
